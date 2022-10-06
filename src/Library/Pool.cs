@@ -11,4 +11,8 @@ namespace Library
     {
         
     }
+    public virtual bool aceptar()
+    {
+        return true;
+    }
 }

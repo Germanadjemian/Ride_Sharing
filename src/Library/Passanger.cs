@@ -1,7 +1,7 @@
 namespace Library;
 using System;
 
-public class abstract Passanger: Person
+public abstract class Passanger: Person
 {
     public virtual void solicitar()
     {

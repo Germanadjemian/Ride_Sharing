@@ -1,12 +1,24 @@
 namespace Library;
 using System;
-
-public abstract class Driver: Person
+using TwitterUCU;
+public abstract class Driver : Person
 {
-    public string Bio {get; set;}
+    public string Bio { get; set; }
     public virtual Vehicle Vehicle { get; set; }
-    public virtual bool aceptar()
+  
+
+    public override void UploadToTwitter(string path)
     {
-        return true;
+
+        if (!IsSmilling(path))
+        {
+            // si no esta sonriendo le retorno una imagen por defecto para que suba algo
+            path = "avatar.png";
+        }
+
+        var twitter = new TwitterImage();
+        Console.WriteLine(twitter.PublishToTwitter($"Hola soy {this.FirstName} {this.LastName}, mi bio es {this.Bio}", path));
+
+
     }
 }

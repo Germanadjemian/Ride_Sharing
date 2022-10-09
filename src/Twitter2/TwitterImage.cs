@@ -90,7 +90,8 @@ namespace TwitterUCU
             catch (Exception ex)
             {
                 // log exception somewhere
-                return "Unknown error publishing to Twitter";
+               
+                return "Unknown error publishing to Twitter: " + ex;
             }
         }
 

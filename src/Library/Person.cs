@@ -1,7 +1,7 @@
 namespace Library;
 using System;
-
-
+using CognitiveCoreUCU;
+using System.Drawing;
 public abstract class Person
 {
     // al ser Person una clase abstracta no tiene constructor
@@ -27,4 +27,25 @@ public abstract class Person
         this.Calification.Add(calification);
 
     }
+
+
+    public virtual Boolean IsSmilling(string path)
+    {
+        // retorna true si hay una cara y esta sonriendo en la foto
+        CognitiveFace cog = new CognitiveFace(true, Color.GreenYellow);
+        cog.Recognize(path);
+        return cog.FaceFound && cog.SmileFound;
+
+    }
+    public virtual Boolean HasFace(string path)
+    {
+        // retorna true si encontro una cara en la foto
+        CognitiveFace cog = new CognitiveFace(true, Color.GreenYellow);
+        cog.Recognize(path);
+        return cog.FaceFound;
+
+    }
+
+    public virtual void UploadToTwitter(string path) { }
+
 }

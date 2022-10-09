@@ -10,3 +10,20 @@ C:\Users\adjem\Repositorio\Prueba1\src\Library\obj\Debug\net6.0\Library.dll
 C:\Users\adjem\Repositorio\Prueba1\src\Library\obj\Debug\net6.0\refint\Library.dll
 C:\Users\adjem\Repositorio\Prueba1\src\Library\obj\Debug\net6.0\Library.pdb
 C:\Users\adjem\Repositorio\Prueba1\src\Library\obj\Debug\net6.0\ref\Library.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Library\obj\Debug\net6.0\Library.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Library\obj\Debug\net6.0\refint\Library.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Library\obj\Debug\net6.0\Library.pdb
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Library\bin\Debug\net6.0\Library.deps.json
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Library\bin\Debug\net6.0\Library.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Library\bin\Debug\net6.0\Library.pdb
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Library\obj\Debug\net6.0\ref\Library.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Library\bin\Debug\net6.0\TwitterApi.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Library\bin\Debug\net6.0\TwitterApi.pdb
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Library\obj\Debug\net6.0\Library.csproj.CopyComplete
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Library\bin\Debug\net6.0\CognitiveLibrary.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Library\bin\Debug\net6.0\CognitiveLibrary.pdb

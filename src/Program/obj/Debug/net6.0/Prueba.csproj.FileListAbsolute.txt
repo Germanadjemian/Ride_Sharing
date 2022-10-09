@@ -16,3 +16,39 @@ C:\Users\adjem\Repositorio\Prueba1\src\prueba\obj\Debug\net6.0\refint\Prueba.dll
 C:\Users\adjem\Repositorio\Prueba1\src\prueba\obj\Debug\net6.0\Prueba.pdb
 C:\Users\adjem\Repositorio\Prueba1\src\prueba\obj\Debug\net6.0\Prueba.genruntimeconfig.cache
 C:\Users\adjem\Repositorio\Prueba1\src\prueba\obj\Debug\net6.0\ref\Prueba.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\obj\Debug\net6.0\Prueba.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\obj\Debug\net6.0\refint\Prueba.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\obj\Debug\net6.0\Prueba.pdb
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\Prueba.exe
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\Prueba.deps.json
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\Prueba.runtimeconfig.json
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\Prueba.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\Prueba.pdb
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\Nito.AsyncEx.Context.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\Nito.AsyncEx.Coordination.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\Nito.AsyncEx.Interop.WaitHandles.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\Nito.AsyncEx.Oop.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\Nito.AsyncEx.Tasks.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\Nito.Cancellation.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\Nito.Collections.Deque.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\Nito.Disposables.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\Library.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\TwitterApi.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\Library.pdb
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\TwitterApi.pdb
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\obj\Debug\net6.0\Prueba.csproj.AssemblyReference.cache
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\obj\Debug\net6.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\obj\Debug\net6.0\Prueba.AssemblyInfoInputs.cache
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\obj\Debug\net6.0\Prueba.AssemblyInfo.cs
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\obj\Debug\net6.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\obj\Debug\net6.0\Prueba.csproj.CopyComplete
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\obj\Debug\net6.0\Prueba.genruntimeconfig.cache
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\obj\Debug\net6.0\ref\Prueba.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\SixLabors.Core.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\SixLabors.ImageSharp.Drawing.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\SixLabors.Shapes.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\CognitiveLibrary.dll
+C:\Users\gfeli\OneDrive\Área de Trabalho\Ucu\Segundo semestre\Programación\Programas\Ride_Sharing\src\Program\bin\Debug\net6.0\CognitiveLibrary.pdb
